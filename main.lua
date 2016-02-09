@@ -3,8 +3,6 @@
 -- Version: 1.0
 -- Copyright 2016 Bivek Joshi All Rights Reserved.
 
--- housekeeping stuff
-
 -- Hides the status bar of the mobile phone
 display.setStatusBar(display.HiddenStatusBar)
 
