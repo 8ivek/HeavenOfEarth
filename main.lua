@@ -28,7 +28,7 @@ local scoreIncrement
 
 -- preload audio
 
-local sndKill = audio.loadSound("boing-1.wav")
+local sndKill = audio.loadSound("boing.wav")
 local sndBlast = audio.loadSound("blast.mp3")
 local sndLose = audio.loadSound("wahwahwah.mp3")
 
